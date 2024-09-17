@@ -1,2 +1,2 @@
 # edututor
-通过这个app，在不不同的端，让大模型克隆老师的声音，对大模型进行奖励和惩罚机制，和家长，以及学生对话，协助学生学习，家长教育，并且及时侦测到孩子的情绪和家长情绪，及时预警，让穷人的孩子也能得到更好的教育和心理辅助。
+Through this app, on different platforms, the AI model clones the teacher's voice and applies a reward and punishment mechanism to the model, allowing it to communicate with parents and students, assisting students in learning and parents in education. It also detects the emotions of both the child and the parents in real time, providing timely alerts, so that even children from poor families can receive better education and psychological support.
